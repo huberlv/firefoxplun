@@ -19,7 +19,7 @@
   <!-- 指明能使用该插件的Firefox最低版本。这里是指1.5。必填。 --> 
                 <em:minVersion>1.5</em:minVersion> 
   <!-- 指明能使用该插件的Firefox最高版本。这里是指3.0.x。结合minVersion，即是说本插件只适用于1.5和3.0.x之间的版本。必填。 --> 
-                <em:maxVersion>3.0.*</em:maxVersion> 
+                <em:maxVersion>30.*</em:maxVersion> 
             </Description> 
         </em:targetApplication> 
         
